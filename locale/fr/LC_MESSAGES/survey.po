@@ -1,0 +1,533 @@
+# French translations for survey.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-04-23 16:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676619616}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676618077}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676625230}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676628501}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676633887}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676640873}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt ""
+"{\"checksum\": 3509901753, \"cxt\": \"question_required\", \"id\": "
+"1676648782}"
+msgid "This question requires an answer."
+msgstr "Cette question nécessite une réponse."
+
+msgctxt "{\"checksum\": 130363832, \"cxt\": \"survey_next\", \"id\": 169718351}"
+msgid "Next"
+msgstr "Suiv."
+
+msgctxt "{\"checksum\": 503908439, \"cxt\": \"survey_prev\", \"id\": 169718351}"
+msgid "Prev"
+msgstr "Préc."
+
+msgctxt "{\"checksum\": 20094787, \"cxt\": \"survey_done\", \"id\": 169718351}"
+msgid "Done"
+msgstr "Terminé"
+
+msgctxt "{\"checksum\": 3610695981, \"cxt\": \"survey_ok\", \"id\": 169718351}"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 228443095}"
+msgid ""
+"Thank you for taking our survey.  If you want to stay informed on the "
+"progress of this project or to share further reflections please visit <a "
+"href=\"https://www.mozillapulse.org/search?keyword=openness\" "
+"rel=\"nofollow\">Mozilla Pulse (#openness).</a>"
+msgstr "Merci d’avoir participé à notre enquête. Pour rester informé(e) de la progression de ce projet ou pour approfondir le sujet, rendez-vous sur <a href=\"https://www.mozillapulse.org/search?keyword=openness\" rel=\"nofollow\">Mozilla Pulse (#openness) (site en anglais).</a>"
+
+msgctxt ""
+"{\"checksum\": 2148532640, \"cxt\": \"collector_disqualification\", "
+"\"id\": 228443095}"
+msgid "Thank you for completing our survey!"
+msgstr "Merci d'avoir répondu à notre sondage!"
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 228398484}"
+msgid ""
+"Thank you for taking our survey.  If you want to stay informed on the "
+"progress of this project or to share further reflections please visit <a "
+"href=\"https://www.mozillapulse.org/search?keyword=openness\" "
+"rel=\"nofollow\">Mozilla Pulse (#openness).</a>"
+msgstr "Merci d’avoir participé à notre enquête. Pour rester informé(e) de la progression de ce projet ou pour approfondir le sujet, rendez-vous sur <a href=\"https://www.mozillapulse.org/search?keyword=openness\" rel=\"nofollow\">Mozilla Pulse (#openness) (site en anglais).</a>"
+
+msgctxt ""
+"{\"checksum\": 2148532640, \"cxt\": \"collector_disqualification\", "
+"\"id\": 228398484}"
+msgid "Thank you for completing our survey!"
+msgstr "Merci d'avoir répondu à notre sondage!"
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 228442605}"
+msgid ""
+"Thank you for taking our survey.  If you want to stay informed on the "
+"progress of this project or to share further reflections please visit <a "
+"href=\"https://www.mozillapulse.org/search?keyword=openness\" "
+"rel=\"nofollow\">Mozilla Pulse (#openness).</a>"
+msgstr "Merci d’avoir participé à notre enquête. Pour rester informé(e) de la progression de ce projet ou pour approfondir le sujet, rendez-vous sur <a href=\"https://www.mozillapulse.org/search?keyword=openness\" rel=\"nofollow\">Mozilla Pulse (#openness) (site en anglais).</a>"
+
+msgctxt ""
+"{\"checksum\": 2148532640, \"cxt\": \"collector_disqualification\", "
+"\"id\": 228442605}"
+msgid "Thank you for completing our survey!"
+msgstr "Merci d'avoir répondu à notre sondage!"
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 229430943}"
+msgid ""
+"Thank you for taking our survey.  If you want to stay informed on the "
+"progress of this project or to share further reflections please visit <a "
+"href=\"https://www.mozillapulse.org/search?keyword=openness\" "
+"rel=\"nofollow\">Mozilla Pulse (#openness).</a>"
+msgstr "Merci d’avoir participé à notre enquête. Pour rester informé(e) de la progression de ce projet ou pour approfondir le sujet, rendez-vous sur <a href=\"https://www.mozillapulse.org/search?keyword=openness\" rel=\"nofollow\">Mozilla Pulse (#openness) (site en anglais).</a>"
+
+msgctxt ""
+"{\"checksum\": 2148532640, \"cxt\": \"collector_disqualification\", "
+"\"id\": 229430943}"
+msgid "Thank you for completing our survey!"
+msgstr "Merci d'avoir répondu à notre sondage!"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245911890}"
+msgid "I consider myself to be:"
+msgstr "Je me considère comme :"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912586}"
+msgid "Your favorite thing about the internet is: (Pick one.)"
+msgstr "Ce que vous préférez sur Internet (un seule réponse) :"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912587}"
+msgid "In your view the term &ldquo;open internet&rdquo; is best explained as:"
+msgstr "À votre avis, qu’est-ce qui décrit le mieux l’expression « Internet ouvert » ?"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912598}"
+msgid "Thinking about the future of the internet leaves you feeling:"
+msgstr "Lorsque vous pensez à l’avenir d’Internet, vous vous sentez :"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912599}"
+msgid "Who is most responsible for making the internet a good place to be?"
+msgstr "Qui a le plus de responsabilité pour faire d’Internet un endroit agréable ?"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912600}"
+msgid ""
+"What values are most important for ensuring a healthy online experience? "
+"(Check your top <strong>three</strong>.)"
+msgstr "Quelles valeurs sont les plus importantes pour garantir une bonne expérience en ligne (choisissez-en <strong>trois</strong>) ?"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912603}"
+msgid ""
+"What are the main challenges we, as a society, face on the internet at "
+"the moment? (Check all that apply.)"
+msgstr "En tant que société, quels sont les principaux défis auxquels nous faisons face sur Internet en ce moment (choisissez toutes les réponses qui s’appliquent) ?"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245912607}"
+msgid ""
+"What should Mozilla&rsquo;s role in contributing to a healthy online "
+"experience focus on?"
+msgstr "Sur quoi Mozilla devrait-il concentrer ses efforts pour contribuer à une expérience en ligne plus saine ?"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245907413}"
+msgid ""
+"<span style=\"font-size: 14pt;\"><span style=\"font-size: "
+"24pt;\"><strong>You're using the internet! <br>Help Mozilla make it a "
+"better place.</strong></span><br></span>"
+msgstr "<span style=\"font-size: 14pt;\"><span style=\"font-size: 24pt;\"><strong>Vous utilisez Internet ! <br>Aidez Mozilla à l’améliorer.</strong></span><br></span>"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245907416}"
+msgid ""
+"<span style=\"font-size: 14pt;\">Thanks for your interest! We’ll use this"
+" survey to understand how Mozilla can refine its vision and better "
+"support and advocate for a healthy internet.<br><br>This survey should "
+"take about 3 minutes to complete. <br>We’ll need your thoughts and "
+"feedback by <strong>May 14, 2019</strong>.     </span><br><br><span style"
+"=\"font-size: 14pt;\">Thanks in advance for your time!</span>"
+msgstr "<span style=\"font-size: 14pt;\">Merci pour votre intérêt ! Cette enquête nous permettra de comprendre comment Mozilla peut préciser sa vision et mieux s’engager en faveur d’un Internet plus sain.<br><br>Vous devriez pouvoir compléter cette enquête en 3 minutes environ. <br>Nous avons besoin de vos idées et de vos commentaires pour le <strong>14 mai 2019</strong>.     </span><br><br><span style=\"font-size: 14pt;\">Merci d’avance de prendre ces quelques minutes !</span>"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245907422}"
+msgid "What is your gender? (optional)"
+msgstr "Quel est votre genre ? (facultatif)"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245907423}"
+msgid "What is your age? (optional)"
+msgstr "Quel âge avez-vous ? (facultatif)"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 245913167}"
+msgid "Where do you live? (Country/State) (optional)"
+msgstr "Où habitez-vous ? (pays/état) (facultatif)"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 246371327}"
+msgid ""
+"Participation in this survey is voluntary and the survey is conducted "
+"anonymously. You will not be asked to provide your name or email address."
+" Please be aware that Mozilla may publish certain responses (in full or "
+"excerpted form) anonymously in our follow-up survey report. Mozilla "
+"implements our core beliefs about user privacy, security, data "
+"minimization, and transparency through <a href=\"https://www.mozilla.org"
+"/en-US/about/policy/lean-data/\" rel=\"nofollow\" target=\"_blank\">Lean "
+"Data Practices</a>. We handle your information as described in the <a "
+"href=\"https://www.mozilla.org/privacy/\" rel=\"nofollow\" "
+"target=\"_blank\">Mozilla Privacy Policy</a>. We promise not to use or "
+"sell any of your personally identifying information. Results will only be"
+" shared in aggregated form to indicate trends and perception. This survey"
+" is one point of input for a larger exploration. We will share the "
+"results of our exploration back with you in a transparent and open way."
+msgstr "La participation à cette enquête est volontaire et anonyme. Nous ne vous demanderons pas de fournir votre nom ou votre adresse e-mail. Veuillez noter que Mozilla pourrait publier certaines réponses (en intégralité ou sous forme d’extrait) de façon anonyme dans le compte-rendu d’enquête. Mozilla met en pratique ses opinions sur le respect de la vie privée, la sécurité, la minimisation des données et la transparence à travers ses <a href=\"https://www.mozilla.org/en-US/about/policy/lean-data/\" rel=\"nofollow\" target=\"_blank\">pratiques de Lean Data</a>. La façon dont nous traitons vos informations est décrite dans la <a href=\"https://www.mozilla.org/privacy/\" rel=\"nofollow\" target=\"_blank\">politique de confidentialité de Mozilla</a>. Nous promettons de ne pas utiliser ou vendre toute information personnelle permettant de vous identifier. Les résultats seront partagés uniquement sous forme cumulée pour indiquer des tendances et des perceptions. Cette enquête fait partie d’une opération plus ambitieuse. Nous partagerons les résultats de notre recherche avec vous de façon transparente et ouverte."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673663094}"
+msgid ""
+"Ultra Techie:  I build my own computers, run my own servers, code my own "
+"apps."
+msgstr "Super technicien(ne) : je monte moi-même mes ordinateurs, j’ai mes propres serveurs et je code mes applis."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673663095}"
+msgid ""
+"Technically Savvy: I know my way around a computer pretty well. When "
+"anyone in my family needs technical help, I&rsquo;m the one they call."
+msgstr "Adepte des technologies : je m’en sors plutôt bien avec les ordinateurs. Quand un membre de ma famille a besoin d’une assistance technique, c’est à moi qu’il s’adresse. "
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673663096}"
+msgid "Average User: I know enough to do everything I need to do"
+msgstr "Utilisateur(trice) moyen(ne) : j’en sais suffisamment pour répondre à mes besoins."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673663097}"
+msgid "Novice: Technology isn't for me! I only use it when I have to."
+msgstr "Novice : la technologie, ce n’est pas pour moi ! Je l’utilise seulement si je n’ai pas le choix."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667667}"
+msgid "I live on the internet, it’s in everything I do."
+msgstr "Je vis sur Internet, il fait partie de tout ce que je fais."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667668}"
+msgid "It lets me stay connected with friends and family."
+msgstr "Il m’aide à rester en contact avec mes amis et ma famille."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667669}"
+msgid "I can keep up with what’s going in the world."
+msgstr "Il me permet de suivre ce qu’il se passe dans le monde."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667670}"
+msgid "It makes life easier."
+msgstr "Il me facilite la vie."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667671}"
+msgid "Movies, TV, music, and cat gifs"
+msgstr "Les films, la télé, la musique et les GIF de chats."
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1676618081}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667673}"
+msgid "Free internet access at places like coffee shops and hotels"
+msgstr "Un accès gratuit à Internet dans des endroits comme les cafés ou les hôtels."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667674}"
+msgid "An insecure internet connection"
+msgstr "Une connexion Internet non sécurisée."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667681}"
+msgid "Access to the internet is free and available to everyone equally"
+msgstr "Un accès gratuit et égalitaire à Internet pour tous."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667712}"
+msgid "Open source software that is free to anyone [to use and contribute to]"
+msgstr "Des logiciels open source gratuits et libres (pour l’utilisation comme pour la contribution)."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667713}"
+msgid "I have no idea, I’ve never heard this term used about the internet"
+msgstr "Je ne sais pas, je n’ai jamais entendu parler de cette expression."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667714}"
+msgid "None of the above"
+msgstr "Rien de tout ça."
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1676625248}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667730}"
+msgid "Super excited! I can’t wait to see where technology takes us next."
+msgstr "Très enthousiaste ! J’ai hâte de voir où la technologie va nous mener."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667732}"
+msgid ""
+"Cautiously optimistic. I’m hopeful we’re building a better world by "
+"becoming more connected in everything we do."
+msgstr "Prudemment optimiste. J’espère qu’en devenant de plus en plus connectés, nous construisons un monde meilleur."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667734}"
+msgid "On the fence.  I’m not sure about all this. I think I’ll wait and see."
+msgstr "Incertain(e). Je ne sais pas trop ce que je pense de tout ça. Je vais attendre de voir."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667735}"
+msgid ""
+"A little wary. All this being connected to the internet in every part of "
+"our lives makes me nervous."
+msgstr "Un peu méfiant(e). Le fait d’être connectés en permanence m’angoisse."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667737}"
+msgid ""
+"Scared as hell. Thinking about the future of the internet leaves me "
+"feeling doomed."
+msgstr "Terrifié(e). Quand je pense à l’avenir d’Internet, je me sens condamné(e)."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667739}"
+msgid "It’s up to me and all users to make the internet a good place to be."
+msgstr "C’est à moi et aux autres utilisateurs et utilisatrices de rendre Internet agréable."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667740}"
+msgid ""
+"The government should create policies and rules to ensure the internet is"
+" a safe place."
+msgstr "Le gouvernement devrait mettre en place des politiques et des règles pour assurer la sécurité sur Internet."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667741}"
+msgid "Civil society needs to step up and be the voice of reason right now."
+msgstr "La société civile doit s’exprimer et représenter la voix de la raison dès maintenant."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667738}"
+msgid ""
+"Companies who make the things we use on the internet like Amazon, "
+"Facebook, Google, Microsoft, Mozilla and others."
+msgstr "Les entreprises qui créent les outils que nous utilisons sur Internet, comme Amazon, Facebook, Google, Microsoft, Mozilla, etc."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667742}"
+msgid "I honestly don&rsquo;t know."
+msgstr "Honnêtement, je ne sais pas."
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1676633893}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667744}"
+msgid "Truth"
+msgstr "La vérité"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667745}"
+msgid "Kindness"
+msgstr "La bienveillance"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667746}"
+msgid "Equality"
+msgstr "L’égalité"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667747}"
+msgid "Access for all"
+msgstr "L’accès pour tous"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667748}"
+msgid "Freedom"
+msgstr "La liberté"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667749}"
+msgid "Openness"
+msgstr "L’ouverture"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667750}"
+msgid "Inclusion"
+msgstr "L’inclusion"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667751}"
+msgid "Security"
+msgstr "La sécurité"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667752}"
+msgid "Privacy"
+msgstr "Le respect de la vie privée"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667753}"
+msgid "Being online less"
+msgstr "La réduction du temps passé en ligne"
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1676640883}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667772}"
+msgid "Fake News and Misinformation"
+msgstr "Les fausses informations et la désinformation"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667774}"
+msgid "Privacy violations"
+msgstr "Les violations de la vie privée"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667775}"
+msgid "Security threats"
+msgstr "Les menaces à la sécurité"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667776}"
+msgid "Addiction"
+msgstr "L’addiction"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667777}"
+msgid "Isolation"
+msgstr "L’isolation"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667779}"
+msgid "Lack of Civility"
+msgstr "L’incivilité"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667780}"
+msgid "Trolls"
+msgstr "Les « trolls »"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667781}"
+msgid "Digital Divide"
+msgstr "La fracture numérique"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667782}"
+msgid "Algorithmic Bias"
+msgstr "La partialité des algorithmes"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667783}"
+msgid "Personal Data Use for Bad Purposes"
+msgstr "La mauvaise utilisation des données personnelles"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673667778}"
+msgid "Centralization of control"
+msgstr "La centralisation du contrôle"
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1676648784}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636275}"
+msgid "Man"
+msgstr "Homme"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636276}"
+msgid "Woman"
+msgstr "Femme"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636277}"
+msgid "Non-binary/third gender"
+msgstr "Non-binaire / Troisième genre"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636278}"
+msgid "Prefer not to say"
+msgstr "Je préfère ne pas le donner"
+
+msgctxt ""
+"{\"checksum\": 1106470714, \"cxt\": \"question_option_text\", \"id\": "
+"1673636280}"
+msgid "Please enter a comment."
+msgstr "Veuillez saisir un commentaire."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636284}"
+msgid "18-24"
+msgstr "18-24"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636285}"
+msgid "25-34"
+msgstr "25-34"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636286}"
+msgid "35-44"
+msgstr "35-44"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636287}"
+msgid "45-54"
+msgstr "45-54"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636288}"
+msgid "55-64"
+msgstr "55-64"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636289}"
+msgid "65+"
+msgstr "Plus de 65"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1673636283}"
+msgid "Under 18"
+msgstr "Moins de 18"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 169718351}"
+msgid "Reimagine the Web"
+msgstr "Repenser le Web"
+
+msgctxt ""
+"{\"checksum\": 2846268878, \"cxt\": \"question_other\", \"id\": "
+"1676618088}"
+msgid "Other (please specify)"
+msgstr "Autre (veuillez préciser)"
+
+msgctxt ""
+"{\"checksum\": 2846268878, \"cxt\": \"question_other\", \"id\": "
+"1676625344}"
+msgid "Other (please specify)"
+msgstr "Autre (veuillez préciser)"
+
+msgctxt ""
+"{\"checksum\": 2846268878, \"cxt\": \"question_other\", \"id\": "
+"1676633897}"
+msgid "Other (please specify)"
+msgstr "Autre (veuillez préciser)"
+
+msgctxt ""
+"{\"checksum\": 2846268878, \"cxt\": \"question_other\", \"id\": "
+"1676640956}"
+msgid "Other (please specify)"
+msgstr "Autre (veuillez préciser)"
+
+msgctxt ""
+"{\"checksum\": 2846268878, \"cxt\": \"question_other\", \"id\": "
+"1676648787}"
+msgid "Other (please specify)"
+msgstr "Autre (veuillez préciser)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 1673636279}"
+msgid "Prefer to self-describe"
+msgstr "Je préfère me décrire moi-même"
+
